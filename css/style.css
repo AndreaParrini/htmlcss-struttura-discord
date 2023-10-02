@@ -28,18 +28,46 @@
     background-color: brown;
 } 
 
-.debug .section_invite{
+.debug .section_invite, .debug .section_community{
     background-color: darkgray;
 }
 
-.debug .col-5 {
+.debug .section_invite .col-5 {
     border: 1px dashed black;
     height: 100%;
     background-color: pink;
     height: 200px;
 }
 
-.debug .col-7 {
+.debug .section_invite .col-7 {
+    border: 1px dashed black;
+    height: 100%;
+    background-color: dodgerblue;
+    height: 200px;
+}
+
+.debug .section_room .col-5 {
+    border: 1px dashed black;
+    height: 100%;
+    background-color: pink;
+    height: 200px;
+}
+
+.debug .section_room .col-7 {
+    border: 1px dashed black;
+    height: 100%;
+    background-color: dodgerblue;
+    height: 200px;
+}
+
+.debug .section_community .col-5 {
+    border: 1px dashed black;
+    height: 100%;
+    background-color: pink;
+    height: 200px;
+}
+
+.debug .section_community .col-7 {
     border: 1px dashed black;
     height: 100%;
     background-color: dodgerblue;
@@ -112,7 +140,7 @@ li>a{
 
 /* Main */
 
-.section_speak{
+.padding_section{
     padding-top: 1.5rem;
     padding-bottom: 1.5rem;
 }
@@ -122,8 +150,4 @@ li>a{
     margin: auto;
 } 
 
-.section_invite{
-    padding-top: 1.5rem;
-    padding-bottom: 1.5rem;
-}
 
