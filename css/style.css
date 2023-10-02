@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Debug */
+
+/* .debug .site_header{
+    height: 80px;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+}
+
+.debug .container{
+    width: 80%;
+    height: 40px;
+    margin: auto;
+    background-color: yellow;
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ */
+
+/* Header */
